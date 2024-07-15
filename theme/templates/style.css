@@ -435,6 +435,10 @@ label[for=profile-item-r-environment] div.radio::after {
   background-image: url('/hub/custom/images/environment-r.svg');
 }
 
+label[for=profile-item-rstudio-environment] div.radio::after {
+  background-image: url('/hub/custom/images/environment-rstudio.svg');
+}
+
 label[for=profile-item-agrefed-environment] div.radio::after {
   background-image: url('/hub/custom/images/environment-agrefed.svg');
 }
