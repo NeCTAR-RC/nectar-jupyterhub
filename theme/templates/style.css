@@ -9,8 +9,8 @@ body {
   padding-top: 152px; /* needed when nav has .navbar-fixed-top class */
   font-size: 16px;
   font-family: Figtree, sans-serif;
-  color: #000;
-  background-color: #fcfcfc;
+  color: #16161d;
+  background-color: #ffffff;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
