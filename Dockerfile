@@ -1,4 +1,4 @@
-FROM jupyterhub/k8s-hub:3.3.6
+FROM jupyterhub/k8s-hub:4.3.2
 
 # Add Nectar theme
 COPY --chown=1000 ./theme /usr/local/etc/jupyterhub/theme/
